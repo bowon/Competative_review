@@ -5,7 +5,7 @@
 
 ## Dependencies
 - Python std, pandas, scrapy, matplotlib
-- Tableau Desktop ver.8.3 
+- Tableau Desktop ver.8.3  
 **To open the file, you have to use Tableau Reader*
 
 ## Copyright
